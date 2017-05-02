@@ -1,0 +1,108 @@
+The word on every Internet user's lips these days is "broadband." We have so much more data to send and download today, including audio files, video files and photos, that it's clogging our wimpy modems. Many Internet users are switching to cable modems and digital subscriber lines (DSLs) to increase their bandwidth. There's also a new type of service being developed that will take broadband into the air. In this paper, we'll learn about the future of the Airborne Internet. We'll take a look at the networks in development, the aircraft and how consumers may use this technology.
+Land-based lines are limited physically in how much data they can deliver because of the diameter of the cable or phone line. In an airborne Internet, there is no such physical limitation, enabling a broader capacity.
+
+	The desktop computer, whether used in the office or the home, runs many different applications that can all use the same data channel. The applications are designed around the Internet Protocol (IP) standard to take advantage of the existence of the network connection to the computer. Airborne Internet is built upon the same model. A.I. will provide a general purpose, multi-application data channel that numerous applications can use. By combining application and data functionality over a common data channel, aviation has the potential to significantly reduce costs for equipage on the ground and in the aircraft. The airborne Internet will function much like satellite-based Internet access, but without the time delay. The airborne Internet will actually be used to compliment the satellite and ground-based networks, not replace them. These airborne networks will overcome the last-mile barriers facing conventional
+
+
+
+
+For the case of platform-fixed beams, each antenna would have a fixed field of view. The total field of view for the entire Airborne Network would be the sum of these fields of view of the individual antennas. The network could initially have a small footprint and as demands on the Airborne services increase, additional antennas could be added to the communications Payload. This results in a modular design, readily adaptable for growth. Platform-fixed beams are simpler to construct generally, but require the "handoffs" between beams to be accomplished by the packet switching equipment as the beams "sweep" across the ground with the movement of the aircraft. However, the cost and performance penalties for frequently changing the virtual path through the packet switch may be appreciable.
+
+
+
+
+aft and air traffic controllers, improving the reliability and timeliness of message delivery. Once the aircraft is reliably networked via Airborne Internet, the existing high frequency communications problems with aircraft, such as frequency congestion, transcription errors, and lack of timeliness could be eliminated. Automatic Dependent Surveillance (ADS) is another function that Airborne Internet network connectivity between aircraft could provide. Network connectivity between aircraft and the ground networks could allow aircraft to automatically send navigation and guidance data derived from its flight management system and onboard navigation sensors, such as the Global Positioning System (GPS), to air traffic control facilities for the purpose of accurately determining aircraft position and intent. CPDLC, ADS, and GPS, coupled with enhanced controller automation tools would form the basis to achieve an eventual oceanic free flight.
+
+VoIP
+The network connectivity that Airborne Internet will provide to aircraft will also provide the opportunity for the flight deck and passengers to use Voice over Internet Protocol (VoIP). Currently voice communications from aircraft to ground is expensive, costing more than a $1 per minute. In addition, there is no direct method to call a VoIP user in another aircraft. Airborne Internet can change that. VOIP makes easy some things that are difficult to impossible with traditional phone networks. Incoming phone calls are automatically routed to your VOIP phone where ever you plug it into the network. VoIP users can take their phone with then on a flight, and anywhere the Airborne Internetenabled aircraft flies, they can receive incoming calls. Flight crews will have the capability to have low cost (nearly free) high quality voice communications to speak with their operations offices, get direct voice weather briefings, or speak directly to the flight crew of another aircraft. For example, an aircraft flying ahead of another could be able to call back and report turbulence. Using VoIP for private conversations such as this, instead of the voice radio communications channel, would free up over crowded voice radio communications channel for ATC functions.
+
+
+
+Black Box Data
+
+Airborne Internet could provide the communications channel that will enable software on an aircraft to monitor flight conditions and transmit flight safety information (e.g., aircraft performance/flight parameters) to the ground network. The application could use Airborne Internet to transmit the data off the aircraft as it takes place during flight. The data is normally stored in the Flight Data Recorder in the aircraft. This application could provide monitoring software on the ground the data to determine safety issues (i.e., inflight emergencies) if certain alarm parameters were breached. In the event of an accident, more information would be available and cover a longer period of time about this flight, thus providing investigators more insight as to why the eventual accident occurred. 
+
+EFB
+Electronic Flight Bags (EFB) are rapidly changing the information is being consumed and brought to the cockpit. EFBs are replacing the old, large, heavy flight bag that so many pilots used to carry on board that contained their charts, approach plates, and other flight related paper products. Airborne Internet is now providing network and information connectivity to EFBs that will save airlines lots of money as they move towards a paperless cockpit. An obvious first step to get to a paperless cockpit is to replace the paper operating manuals with the EFB. Airlines will save precious weight but will also see significant savings in document reproduction and distribution costs. Because the documents are in electronic form, they can then electronically load and update information. Updating EFB documents can be done over the Airborne Internet using secure network techniques. Electronic transmission of data via Airborne Internet from the company's office directly to the airplane would produce tremendous savings. Because the EFB is a tablet PC or similar device, numerous applications could be run on it. For example, conflict detection & alert software could be used to alert the flight crew when the EFB was networked into the Airborne Internet system.
+
+
+   9. FEATURES & ADVANTAGES                                                                                                      
+
+9.1 FEATURES
+
+The key features of the Airborne Internet Network are summarized below.
+• Seamless ubiquitous multimedia services.
+• Adaptation to end user environments.
+• Enhanced user connectivity globally.
+• Rapidly deployable to sites of opportunity.
+• Secure and reliable information transactions.
+• Bandwidth on demand provides efficient use of available spectrum.
+• It helps to avoid the connectivity down time of people in transit.
+• It helps to achieve a broader bandwidth.
+• It has the potential to provide cost savings for aircrafts operators.
+
+9.2 ADVANTAGES
+	           
+The airborne Internet will function much like satellite-based Internet access, but without the time delay. Bandwidth of satellite and airborne Internet access are typically the same, but it will take less time for the airborne Internet to relay data because it is not as high up. Satellites orbit at several hundreds of miles above Earth. The airborne-Internet aircraft will circle overhead at an altitude of 52,000 to 69,000 feet (15,849 to 21,031 meters). At this altitude, the aircraft will be undisturbed by inclement weather and flying well above commercial air traffic.
+
+Networks using high-altitude aircraft will also have a cost advantage over satellites because the aircraft can be deployed easily -- they don't have to be launched into space. However, the airborne Internet will actually be used to compliment the satellite and ground-based networks, not replace them.
+
+These airborne networks will overcome the last-mile barriers facing conventional Internet access options. The "last mile" refers to the fact that access to high-speed cables still depends on physical proximity, and that for this reason, not everyone who wants access can have it. It would take a lot of time to provide universal access using cable or phone lines, just because of the time it takes to install the wires. An airborne network will immediately overcome the last mile as soon as the aircraft takes off.
+The time people spend in transit could be turned into more productive time if network connectivity were available.
+It would be a high-speed digital network
+It has the potential to provide significant cost savings for aircrafts operators and the FAA, as it allows the consolidation of many functions into a common data channel.
+Numerous applications can use the same data channel.
+Since the Aircraft are operated from regional airports, the equipment will be routinely maintained and calibrated. This also allows for equipment upgrades as technology advances yield lower cost and weight and provide increased performance.
+
+
+
+
+
+
+
+
+
+
+
+                                          10. APPLICATIONS                                                                                                                             
+`
+Since the Airborne Internet provides broad band services, it increases the speed of downloading & uploading of data through it.
+
+A primary application for A.I is to track aircraft for the air traffic control system. Aircraft pilots would let the traffic controllers know where they are through the network. The network would give the crew information that would help them avoid collisions. It would also allow information to be sent from aircraft to aircraft without having to go through ground facilities. The system could also be used to send safety warnings to aircraft.
+It has the potential to provide significant cost savings for aircrafts operators and the FAA, as it allows the consolidation of many functions into a common data channel. Numerous applications can use the same data channel.
+
+Using XML aviation services, aircraft operators could receive automatic updates of weather, landing conditions at the destination airport, turbulence ahead, and other information. Airborne Internet could be the means by which the aviation industry will realize these benefits by providing XML services capability to aircraft.
+
+Airborne Internet (A.I) is an approach to provide a general purpose, multi-application data channel to aviation. In doing so, A.I has the potential to provide significant cost savings for aircraft operators and the FAA, as it allows the consolidation of many functions into a common data channel. A primary application for A.I is to track aircraft for the air traffic control system. Many other applications can utilize the same A.I data channel. The applications available are only limited by the bandwidth available. 
+
+A.I began as a supporting technology for NASA’s Small Aircraft Transportation System (SATS). But there is no reason that A.I should be limited to SATS-class aircraft. All of aviation, and even transportation, has the potential to benefit from A.I 
+The principle behind the A.I is to establish a robust, reliable, and available digital data channel to aircraft. Establishing the general purpose, multi-application digital data channel connection to the aircraft is analogous to the connection of a desktop computer to its local area network, or even the wide area network we call the Internet. But aircraft are mobile objects. Therefore, mobile routing is required to maintain the data channel connectivity while the aircraft moves from region to region. 
+
+The desktop computer, whether used in the office or the home, runs many different applications that can all use the same data channel. The applications are designed around the Internet Protocol (IP) standard to take advantage of the existence of the network connection to the computer. Airborne Internet is built upon the same model. A.I will provide a general purpose, multi-application data channel that numerous applications can use. By combining application and data functionality over a common data channel, aviation has the potential to significantly reduce costs for equipage on the ground and in the aircraft.
+
+                                               11. CONCLUSION
+                                                                                                                                     
+                AI is the most recent development in the conventional internet of today. It takes the internet into transportation realms. It would be a high-speed digital network. Information would be passed between aircrafts and the ground by the Internet. Development of the Airborne Internet has already begun.
+
+                Mainly three companies are planning to provide high-speed wireless Internet connection by placing aircraft in fixed patterns over hundreds of cities.
+
+Angel Technologies is planning an airborne Internet network, called High Altitude Long Operation (HALO), which would use lightweight planes to circle overhead and provide data delivery faster than a T1 line for businesses. Consumers would get a connection comparable to DSL. The centerpiece of this network is the Proteus plane, which will carry wireless networking equipment into the air. Each city in the HALO Network will be allotted three piloted Proteus planes. Each plane will fly for eight hours before the next plane takes off. After takeoff, the Proteus plane will climb to a safe altitude, above any bad weather or commercial traffic, and begin an 8-mile loop around the city. Each plane will accommodate two pilots, who will split flying duties during their eight-hour flight.
+
+                 NASA and AeroVironment are working on a solar-powered, lightweight plane that could fly over a city for six months or more, at 60,000 feet, without landing. AeroVironment plans to use these unmanned planes as the carrier to provide broadband Internet access. Helios is currently in the prototype stage.
+
+Sky Station International is counting on its blimps to deliver high-speed Internet access from high altitudes. Sky Station calls its blimps lighter-than-air platforms, and plans to station these airships over at least 250 cities worldwide, one over each city. Each station would fly at an altitude of 13 miles (21 km) and provide wireless service to an area of approximately 7,500 square miles (19,000 square km).
+
+The Airborne Network is capable of providing high rate communications to users of multimedia and broadband services. The feasibility of this approach is reasonably assured due to the convergence of technological advancements. The key enabling technologies at hand include:
+•  GaAs RF devices which operate at MMW frequencies
+• Asynchronous Transfer Mode (ATM)/Synchronous Optical Network (SONET) Technology and        
+   Components.
+• Digital Signal Processing for Wideband Signals
+• Video Compression
+• Very Dense Memory Capacity
+• Aircraft Technology
+
+   These technologies are individually available, to a great extent, from commercial markets. The Airborne Network seeks to integrate these various technologies into a service of high utility to small and medium businesses and other multimedia consumers at a reasonable cost.
+
+Airborne Internet will overtake the conventional internet in the near future that is sure.
+
+                                            1
